@@ -1,0 +1,23 @@
+body {
+    background-color: light red;
+    text-align: center;
+    display: flex;
+    flex-direction:column;
+
+}
+
+.conteneur{
+    display: flex;
+    flex-direction:column;
+    margin:0 auto;
+    border:10px white;
+    padding:10px white;
+    margin:10px white;
+    background-color:dark blue ;
+    border-radius:10px;
+}
+
+    .conteneur#résultat{
+        color: black
+
+}
